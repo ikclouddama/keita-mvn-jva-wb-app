@@ -9,10 +9,13 @@
 </head>
 </head>
 <body>
-<h1 align="center">Welcome to Landmark Tesla Project.</h1>
-<h1 align="center">We are developing and supporting quality  Software Solutions to millions of clients.
-	           We are raising over millionaires in IT.
-	We offer  Training for DevOps with Linux and Cloud equipping IT Engineers for best performance.</h1>
+<h1 align="center">Welcome to keita and Family Enterprise </h1>
+<h1 align="center">Deliver your DevOps Projects, effortlessly.
+	We provide you with the talent and capabilities 
+	to execute your DevOps projects. Whether a single DevOps engineer
+	 or a complex multi-team solution, we are always time zone aligned and highly responsive.
+	
+	</h1>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -31,23 +34,21 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/mylandmarklogo.png" alt="" width="150">
+		<img src="images/i2b2.png" alt="" width="100">
 	</span>
 	<span style="font-weight: bold;">
-                Landmark Technology, 
-		Toronto, Ontario, Canada
-		+1 437 215 2483,
-		mylandmarktech@gmail.com
+                Keita and Family consuling 
+				USA- Maryland 
 		<br>
-		<a href="mailto:mylandmarktech@gmail.com">Mail to Landmark Technologies</a>
+		<a href="devi2l@protonmail.com">Samadoucloud</a>
 	</span>
 </div>
 <hr>
 	<p> Service : <a href="services/employee/getEmployeeDetails">Get Employee Details </p>
 <hr>
 <hr>
-<p align=center>Landmark Technologies - Consultant, Training and Software Development</p>
-<p align=center><small>Copyrights 2021 by <a href="http://mylandmarktech.com/">Landmark Technologies</a> </small></p>
+<p align=center>An expert autonomous team capable of rapidly and
+	 efficiently delivering technology solutions and value.</p>
 
 </body>
 </html>
