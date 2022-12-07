@@ -4,18 +4,18 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
-<title>LandmarkTechnologies- Home Page</title>
+<title>Samadoucloud-Tech</title>
 <link href="images/mylandmarklogo.png" rel="icon">
 </head>
 </head>
 <body>
 <h1 align="center">Welcome to keita and Family Enterprise </h1>
-<h1 align="center">Deliver your DevOps Projects, effortlessly.
+<h2 align="center">Deliver your DevOps Projects, effortlessly.
 	We provide you with the talent and capabilities 
 	to execute your DevOps projects. Whether a single DevOps engineer
 	 or a complex multi-team solution, we are always time zone aligned and highly responsive.
 	
-	</h1>
+	</h2>
 <hr>
 <br>
 	<h1><h3> Server Side IP Address </h3><br>
@@ -34,7 +34,7 @@ out.println("Server Host Name :: "+inetAddress.getHostName());
 <hr>
 <div style="text-align: center;">
 	<span>
-		<img src="images/i2b2.png" alt="" width="100">
+		<img src="images/i2b2.png" alt="" width="1500">
 	</span>
 	<span style="font-weight: bold;">
                 Keita and Family consuling 
